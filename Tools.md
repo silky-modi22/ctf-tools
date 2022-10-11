@@ -125,7 +125,8 @@
 | Ciphers       | Crypto   | [https://rumkin.com/tools/cipher/]          | A collection of different ciphers tools to encrypt/decrypt messages.                                                  |
 | StegoCracker  | Crypto   | https://github.com/W1LDN16H7/StegoCracker   | Stego is an open-source and free steganography tool that lets you hide your secret message in an image or audio file. |
 | PkCrack       | Crypto   | https://github.com/keyunluo/pkcrack         | A tool for breaking PkZip-encryption.                                                                                 |
-| XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher.                                                                              |
+| XORTool       | Crypto   | https://github.com/hellman/xortool          | A tool to analyze multi-byte xor cipher. 
+| RSATool       |Crypto    |  https://github.com/ius/rsatool             |A tool that adds additional security measures to standard username and password logins for a                                                                            number of services and users. 
 
 <br>
 
